@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EXCALIBUR\\OneDrive\\Masa\u00FCst\u00FC\\c#\\Proje_Hastane\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E362FF0-CE61-41AB-BBAA-CFDC7ED88CFC}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\EXCALIBUR\\OneDrive\\Masa\u00FCst\u00FC\\c#\\Proje_Hastane\\proje_hastane\\frmy\u00F6netimgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E362FF0-CE61-41AB-BBAA-CFDC7ED88CFC}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmy\u00F6netimgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E362FF0-CE61-41AB-BBAA-CFDC7ED88CFC}|Proje_Hastane\\Proje_Hastane.csproj|c:\\users\\excalibur\\onedrive\\masa\u00FCst\u00FC\\c#\\proje_hastane\\proje_hastane\\frmhastagiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E362FF0-CE61-41AB-BBAA-CFDC7ED88CFC}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmhastagiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E362FF0-CE61-41AB-BBAA-CFDC7ED88CFC}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\EXCALIBUR\\OneDrive\\Masa\u00FCst\u00FC\\c#\\Proje_Hastane\\proje_hastane\\frmhastagiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E362FF0-CE61-41AB-BBAA-CFDC7ED88CFC}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmhastagiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E362FF0-CE61-41AB-BBAA-CFDC7ED88CFC}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\EXCALIBUR\\OneDrive\\Masa\u00FCst\u00FC\\c#\\Proje_Hastane\\proje_hastane\\frmhastakayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E362FF0-CE61-41AB-BBAA-CFDC7ED88CFC}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmhastakayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E362FF0-CE61-41AB-BBAA-CFDC7ED88CFC}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\EXCALIBUR\\OneDrive\\Masa\u00FCst\u00FC\\c#\\Proje_Hastane\\proje_hastane\\frmhastakayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E362FF0-CE61-41AB-BBAA-CFDC7ED88CFC}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmhastakayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E362FF0-CE61-41AB-BBAA-CFDC7ED88CFC}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\EXCALIBUR\\OneDrive\\Masa\u00FCst\u00FC\\c#\\Proje_Hastane\\proje_hastane\\frmy\u00F6netimgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E362FF0-CE61-41AB-BBAA-CFDC7ED88CFC}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmy\u00F6netimgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E362FF0-CE61-41AB-BBAA-CFDC7ED88CFC}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\EXCALIBUR\\OneDrive\\Masa\u00FCst\u00FC\\c#\\Proje_Hastane\\proje_hastane\\frmdoktorgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E362FF0-CE61-41AB-BBAA-CFDC7ED88CFC}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmdoktorgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E362FF0-CE61-41AB-BBAA-CFDC7ED88CFC}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\EXCALIBUR\\OneDrive\\Masa\u00FCst\u00FC\\c#\\Proje_Hastane\\proje_hastane\\frmdoktorgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E362FF0-CE61-41AB-BBAA-CFDC7ED88CFC}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmdoktorgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E362FF0-CE61-41AB-BBAA-CFDC7ED88CFC}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\EXCALIBUR\\OneDrive\\Masa\u00FCst\u00FC\\c#\\Proje_Hastane\\proje_hastane\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E362FF0-CE61-41AB-BBAA-CFDC7ED88CFC}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E362FF0-CE61-41AB-BBAA-CFDC7ED88CFC}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\EXCALIBUR\\OneDrive\\Masa\u00FCst\u00FC\\c#\\Proje_Hastane\\proje_hastane\\sqlbaglantisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E362FF0-CE61-41AB-BBAA-CFDC7ED88CFC}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\sqlbaglantisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E362FF0-CE61-41AB-BBAA-CFDC7ED88CFC}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\EXCALIBUR\\OneDrive\\Masa\u00FCst\u00FC\\c#\\Proje_Hastane\\proje_hastane\\frmsifreguncelledoktor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E362FF0-CE61-41AB-BBAA-CFDC7ED88CFC}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmsifreguncelledoktor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E362FF0-CE61-41AB-BBAA-CFDC7ED88CFC}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\EXCALIBUR\\OneDrive\\Masa\u00FCst\u00FC\\c#\\Proje_Hastane\\proje_hastane\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E362FF0-CE61-41AB-BBAA-CFDC7ED88CFC}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E362FF0-CE61-41AB-BBAA-CFDC7ED88CFC}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\EXCALIBUR\\OneDrive\\Masa\u00FCst\u00FC\\c#\\Proje_Hastane\\proje_hastane\\frmsifreguncelledoktor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E362FF0-CE61-41AB-BBAA-CFDC7ED88CFC}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmsifreguncelledoktor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmY\u00F6netimGiris.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\OneDrive\\Masa\u00FCst\u00FC\\c#\\Proje_Hastane\\Proje_Hastane\\FrmY\u00F6netimGiris.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmY\u00F6netimGiris.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\OneDrive\\Masa\u00FCst\u00FC\\c#\\Proje_Hastane\\Proje_Hastane\\FrmY\u00F6netimGiris.cs",
+              "RelativeToolTip": "Proje_Hastane\\FrmY\u00F6netimGiris.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwD4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T15:05:39.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmY\u00F6netimGiris.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\OneDrive\\Masa\u00FCst\u00FC\\c#\\Proje_Hastane\\Proje_Hastane\\FrmY\u00F6netimGiris.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmY\u00F6netimGiris.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\OneDrive\\Masa\u00FCst\u00FC\\c#\\Proje_Hastane\\Proje_Hastane\\FrmY\u00F6netimGiris.cs [Design]",
+              "RelativeToolTip": "Proje_Hastane\\FrmY\u00F6netimGiris.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T15:05:31.081Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmHastaKayit.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\OneDrive\\Masa\u00FCst\u00FC\\c#\\Proje_Hastane\\Proje_Hastane\\FrmHastaKayit.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmHastaKayit.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\OneDrive\\Masa\u00FCst\u00FC\\c#\\Proje_Hastane\\Proje_Hastane\\FrmHastaKayit.cs",
+              "RelativeToolTip": "Proje_Hastane\\FrmHastaKayit.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAWwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T09:34:41.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmHastaKayit.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\OneDrive\\Masa\u00FCst\u00FC\\c#\\Proje_Hastane\\Proje_Hastane\\FrmHastaKayit.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmHastaKayit.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\OneDrive\\Masa\u00FCst\u00FC\\c#\\Proje_Hastane\\Proje_Hastane\\FrmHastaKayit.cs [Design]",
+              "RelativeToolTip": "Proje_Hastane\\FrmHastaKayit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T09:34:39.118Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmHastaGiris.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\OneDrive\\Masa\u00FCst\u00FC\\c#\\Proje_Hastane\\Proje_Hastane\\FrmHastaGiris.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmHastaGiris.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\OneDrive\\Masa\u00FCst\u00FC\\c#\\Proje_Hastane\\Proje_Hastane\\FrmHastaGiris.cs [Design]",
+              "RelativeToolTip": "Proje_Hastane\\FrmHastaGiris.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T09:28:43.176Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmHastaGiris.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\OneDrive\\Masa\u00FCst\u00FC\\c#\\Proje_Hastane\\Proje_Hastane\\FrmHastaGiris.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmHastaGiris.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\OneDrive\\Masa\u00FCst\u00FC\\c#\\Proje_Hastane\\Proje_Hastane\\FrmHastaGiris.cs",
+              "RelativeToolTip": "Proje_Hastane\\FrmHastaGiris.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAswGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T09:28:45.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmDoktorGiris.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\OneDrive\\Masa\u00FCst\u00FC\\c#\\Proje_Hastane\\Proje_Hastane\\FrmDoktorGiris.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmDoktorGiris.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\OneDrive\\Masa\u00FCst\u00FC\\c#\\Proje_Hastane\\Proje_Hastane\\FrmDoktorGiris.cs [Design]",
+              "RelativeToolTip": "Proje_Hastane\\FrmDoktorGiris.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T15:14:53.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmDoktorGiris.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\OneDrive\\Masa\u00FCst\u00FC\\c#\\Proje_Hastane\\Proje_Hastane\\FrmDoktorGiris.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmDoktorGiris.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\OneDrive\\Masa\u00FCst\u00FC\\c#\\Proje_Hastane\\Proje_Hastane\\FrmDoktorGiris.cs",
+              "RelativeToolTip": "Proje_Hastane\\FrmDoktorGiris.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwBgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T15:15:33.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmDashBoard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\OneDrive\\Masa\u00FCst\u00FC\\c#\\Proje_Hastane\\Proje_Hastane\\FrmDashBoard.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmDashBoard.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\OneDrive\\Masa\u00FCst\u00FC\\c#\\Proje_Hastane\\Proje_Hastane\\FrmDashBoard.cs [Design]",
+              "RelativeToolTip": "Proje_Hastane\\FrmDashBoard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T17:11:38.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "sqlbaglantisi.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\OneDrive\\Masa\u00FCst\u00FC\\c#\\Proje_Hastane\\Proje_Hastane\\sqlbaglantisi.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\sqlbaglantisi.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\OneDrive\\Masa\u00FCst\u00FC\\c#\\Proje_Hastane\\Proje_Hastane\\sqlbaglantisi.cs",
+              "RelativeToolTip": "Proje_Hastane\\sqlbaglantisi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T15:06:00.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmSifreGuncelleDoktor.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\OneDrive\\Masa\u00FCst\u00FC\\c#\\Proje_Hastane\\Proje_Hastane\\FrmSifreGuncelleDoktor.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmSifreGuncelleDoktor.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\OneDrive\\Masa\u00FCst\u00FC\\c#\\Proje_Hastane\\Proje_Hastane\\FrmSifreGuncelleDoktor.cs",
+              "RelativeToolTip": "Proje_Hastane\\FrmSifreGuncelleDoktor.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T09:27:05.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmSifreGuncelleDoktor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\OneDrive\\Masa\u00FCst\u00FC\\c#\\Proje_Hastane\\Proje_Hastane\\FrmSifreGuncelleDoktor.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmSifreGuncelleDoktor.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\OneDrive\\Masa\u00FCst\u00FC\\c#\\Proje_Hastane\\Proje_Hastane\\FrmSifreGuncelleDoktor.cs [Design]",
+              "RelativeToolTip": "Proje_Hastane\\FrmSifreGuncelleDoktor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T18:33:20.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmDashBoard.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\OneDrive\\Masa\u00FCst\u00FC\\c#\\Proje_Hastane\\Proje_Hastane\\FrmDashBoard.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmDashBoard.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\OneDrive\\Masa\u00FCst\u00FC\\c#\\Proje_Hastane\\Proje_Hastane\\FrmDashBoard.cs",
+              "RelativeToolTip": "Proje_Hastane\\FrmDashBoard.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T17:11:46.01Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
