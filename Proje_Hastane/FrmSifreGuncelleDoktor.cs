@@ -65,6 +65,13 @@ namespace Proje_Hastane
             }
 
         }
+
+        private void guna2Button2_Click(object sender, EventArgs e)
+        {
+            FrmDoktorGiris fr = new FrmDoktorGiris();
+            fr.Show();
+            this.Hide();
+        }
     }
 }
 

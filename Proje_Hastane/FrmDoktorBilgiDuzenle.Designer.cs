@@ -40,6 +40,7 @@
             this.label5 = new System.Windows.Forms.Label();
             this.CmbBrans = new System.Windows.Forms.ComboBox();
             this.BtnBilgiGuncelle = new System.Windows.Forms.Button();
+            this.button1 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // TxtSoyad
@@ -145,13 +146,25 @@
             // 
             this.BtnBilgiGuncelle.BackColor = System.Drawing.Color.GreenYellow;
             this.BtnBilgiGuncelle.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.BtnBilgiGuncelle.Location = new System.Drawing.Point(271, 308);
+            this.BtnBilgiGuncelle.Location = new System.Drawing.Point(239, 300);
             this.BtnBilgiGuncelle.Name = "BtnBilgiGuncelle";
-            this.BtnBilgiGuncelle.Size = new System.Drawing.Size(179, 56);
+            this.BtnBilgiGuncelle.Size = new System.Drawing.Size(109, 56);
             this.BtnBilgiGuncelle.TabIndex = 37;
             this.BtnBilgiGuncelle.Text = "Güncelle";
             this.BtnBilgiGuncelle.UseVisualStyleBackColor = false;
             this.BtnBilgiGuncelle.Click += new System.EventHandler(this.BtnBilgiGuncelle_Click);
+            // 
+            // button1
+            // 
+            this.button1.BackColor = System.Drawing.Color.GreenYellow;
+            this.button1.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.button1.Location = new System.Drawing.Point(354, 300);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(109, 56);
+            this.button1.TabIndex = 38;
+            this.button1.Text = "Geri Dön";
+            this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // FrmDoktorBilgiDuzenle
             // 
@@ -160,6 +173,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.OrangeRed;
             this.ClientSize = new System.Drawing.Size(627, 394);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.BtnBilgiGuncelle);
             this.Controls.Add(this.CmbBrans);
             this.Controls.Add(this.label5);
@@ -195,5 +209,6 @@
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.ComboBox CmbBrans;
         private System.Windows.Forms.Button BtnBilgiGuncelle;
+        private System.Windows.Forms.Button button1;
     }
 }

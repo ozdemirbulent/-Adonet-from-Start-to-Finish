@@ -48,5 +48,12 @@ namespace Proje_Hastane
             bgl.baglanti().Close();
             MessageBox.Show("Kayıt Güncellendi","Başarılı",MessageBoxButtons.OKCancel,MessageBoxIcon.Information);
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            FrmDoktorGiris fr = new FrmDoktorGiris();
+            fr.Show();
+            this.Hide();
+        }
     }
 }

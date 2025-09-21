@@ -37,6 +37,7 @@
             this.gunakontrol = new Guna.UI2.WinForms.Guna2TextBox();
             this.label4 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
+            this.guna2GradientButton2 = new Guna.UI2.WinForms.Guna2GradientButton();
             this.SuspendLayout();
             // 
             // label1
@@ -139,7 +140,7 @@
             this.guna2GradientButton1.HoverState.FillColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
             this.guna2GradientButton1.HoverState.Font = new System.Drawing.Font("Snap ITC", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.guna2GradientButton1.HoverState.ForeColor = System.Drawing.Color.Yellow;
-            this.guna2GradientButton1.Location = new System.Drawing.Point(721, 349);
+            this.guna2GradientButton1.Location = new System.Drawing.Point(524, 311);
             this.guna2GradientButton1.Name = "guna2GradientButton1";
             this.guna2GradientButton1.Size = new System.Drawing.Size(190, 45);
             this.guna2GradientButton1.TabIndex = 9;
@@ -197,6 +198,36 @@
             this.label3.TabIndex = 0;
             this.label3.Text = "Şifre Güncelleme Alanı";
             // 
+            // guna2GradientButton2
+            // 
+            this.guna2GradientButton2.Animated = true;
+            this.guna2GradientButton2.BackColor = System.Drawing.Color.Transparent;
+            this.guna2GradientButton2.BorderColor = System.Drawing.Color.Yellow;
+            this.guna2GradientButton2.BorderRadius = 20;
+            this.guna2GradientButton2.BorderThickness = 2;
+            this.guna2GradientButton2.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.guna2GradientButton2.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
+            this.guna2GradientButton2.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
+            this.guna2GradientButton2.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
+            this.guna2GradientButton2.DisabledState.FillColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
+            this.guna2GradientButton2.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
+            this.guna2GradientButton2.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.guna2GradientButton2.FillColor2 = System.Drawing.Color.Yellow;
+            this.guna2GradientButton2.Font = new System.Drawing.Font("Showcard Gothic", 13.8F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+            this.guna2GradientButton2.ForeColor = System.Drawing.Color.Black;
+            this.guna2GradientButton2.HoverState.BorderColor = System.Drawing.Color.PeachPuff;
+            this.guna2GradientButton2.HoverState.CustomBorderColor = System.Drawing.Color.Green;
+            this.guna2GradientButton2.HoverState.FillColor = System.Drawing.Color.Brown;
+            this.guna2GradientButton2.HoverState.FillColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
+            this.guna2GradientButton2.HoverState.Font = new System.Drawing.Font("Snap ITC", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.guna2GradientButton2.HoverState.ForeColor = System.Drawing.Color.Yellow;
+            this.guna2GradientButton2.Location = new System.Drawing.Point(720, 311);
+            this.guna2GradientButton2.Name = "guna2GradientButton2";
+            this.guna2GradientButton2.Size = new System.Drawing.Size(190, 45);
+            this.guna2GradientButton2.TabIndex = 12;
+            this.guna2GradientButton2.Text = "Geri Dön";
+            this.guna2GradientButton2.Click += new System.EventHandler(this.guna2GradientButton2_Click);
+            // 
             // FrmSifreGuncelleHasta
             // 
             this.AcceptButton = this.guna2GradientButton1;
@@ -206,6 +237,7 @@
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(936, 464);
+            this.Controls.Add(this.guna2GradientButton2);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.gunakontrol);
             this.Controls.Add(this.label4);
@@ -235,5 +267,6 @@
         private Guna.UI2.WinForms.Guna2TextBox gunakontrol;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label3;
+        private Guna.UI2.WinForms.Guna2GradientButton guna2GradientButton2;
     }
 }

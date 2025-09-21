@@ -68,5 +68,12 @@ namespace Proje_Hastane
                 MessageBox.Show("Hatalı Kullanım Mevcuttur.", "Tc No Uygun Kullanılmamıştır.", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
         }
+
+        private void guna2GradientButton2_Click(object sender, EventArgs e)
+        {
+            FrmHastaGiris fr = new FrmHastaGiris();
+            fr.Show();
+            this.Hide();
+        }
     }
 }

@@ -35,6 +35,7 @@
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
+            this.guna2Button2 = new Guna.UI2.WinForms.Guna2Button();
             this.SuspendLayout();
             // 
             // guna2Button1
@@ -56,11 +57,11 @@
             this.guna2Button1.HoverState.FillColor = System.Drawing.Color.SpringGreen;
             this.guna2Button1.HoverState.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.15F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.World, ((byte)(162)));
             this.guna2Button1.HoverState.ForeColor = System.Drawing.Color.Navy;
-            this.guna2Button1.Location = new System.Drawing.Point(225, 228);
+            this.guna2Button1.Location = new System.Drawing.Point(140, 231);
             this.guna2Button1.Margin = new System.Windows.Forms.Padding(15, 3, 3, 10);
             this.guna2Button1.Name = "guna2Button1";
             this.guna2Button1.Padding = new System.Windows.Forms.Padding(5, 15, 5, 5);
-            this.guna2Button1.Size = new System.Drawing.Size(192, 71);
+            this.guna2Button1.Size = new System.Drawing.Size(155, 71);
             this.guna2Button1.TabIndex = 5;
             this.guna2Button1.Text = "Güncelle";
             this.guna2Button1.Click += new System.EventHandler(this.guna2Button1_Click);
@@ -84,7 +85,7 @@
             this.gunaTC1.HoverState.FillColor = System.Drawing.Color.Red;
             this.gunaTC1.HoverState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
             this.gunaTC1.Location = new System.Drawing.Point(140, 87);
-            this.gunaTC1.Margin = new System.Windows.Forms.Padding(7, 7, 7, 7);
+            this.gunaTC1.Margin = new System.Windows.Forms.Padding(7);
             this.gunaTC1.Name = "gunaTC1";
             this.gunaTC1.PlaceholderText = "Tc No Giriniz...";
             this.gunaTC1.SelectedText = "";
@@ -111,7 +112,7 @@
             this.gunaSifre2.HoverState.FillColor = System.Drawing.Color.Red;
             this.gunaSifre2.HoverState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
             this.gunaSifre2.Location = new System.Drawing.Point(140, 154);
-            this.gunaSifre2.Margin = new System.Windows.Forms.Padding(7, 7, 7, 7);
+            this.gunaSifre2.Margin = new System.Windows.Forms.Padding(7);
             this.gunaSifre2.Name = "gunaSifre2";
             this.gunaSifre2.PlaceholderText = "Şifre Giriniz.";
             this.gunaSifre2.SelectedText = "";
@@ -147,9 +148,37 @@
             this.label3.Font = new System.Drawing.Font("Arial Black", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label3.Location = new System.Drawing.Point(98, 9);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(446, 48);
+            this.label3.Size = new System.Drawing.Size(434, 46);
             this.label3.TabIndex = 11;
             this.label3.Text = "Şifre Güncelleme Alanı";
+            // 
+            // guna2Button2
+            // 
+            this.guna2Button2.BackColor = System.Drawing.Color.Transparent;
+            this.guna2Button2.BorderColor = System.Drawing.Color.DarkCyan;
+            this.guna2Button2.BorderRadius = 15;
+            this.guna2Button2.BorderThickness = 2;
+            this.guna2Button2.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.guna2Button2.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
+            this.guna2Button2.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
+            this.guna2Button2.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
+            this.guna2Button2.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
+            this.guna2Button2.FillColor = System.Drawing.Color.Yellow;
+            this.guna2Button2.Font = new System.Drawing.Font("Segoe UI", 13.8F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.guna2Button2.ForeColor = System.Drawing.Color.Black;
+            this.guna2Button2.HoverState.BorderColor = System.Drawing.Color.DarkRed;
+            this.guna2Button2.HoverState.CustomBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
+            this.guna2Button2.HoverState.FillColor = System.Drawing.Color.SpringGreen;
+            this.guna2Button2.HoverState.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.15F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.World, ((byte)(162)));
+            this.guna2Button2.HoverState.ForeColor = System.Drawing.Color.Navy;
+            this.guna2Button2.Location = new System.Drawing.Point(303, 231);
+            this.guna2Button2.Margin = new System.Windows.Forms.Padding(15, 3, 3, 10);
+            this.guna2Button2.Name = "guna2Button2";
+            this.guna2Button2.Padding = new System.Windows.Forms.Padding(5, 15, 5, 5);
+            this.guna2Button2.Size = new System.Drawing.Size(152, 71);
+            this.guna2Button2.TabIndex = 12;
+            this.guna2Button2.Text = "Geri Dön";
+            this.guna2Button2.Click += new System.EventHandler(this.guna2Button2_Click);
             // 
             // FrmSifreGuncelleDoktor
             // 
@@ -159,6 +188,7 @@
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(632, 392);
+            this.Controls.Add(this.guna2Button2);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
@@ -180,5 +210,6 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
+        private Guna.UI2.WinForms.Guna2Button guna2Button2;
     }
 }

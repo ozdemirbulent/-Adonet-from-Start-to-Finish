@@ -48,5 +48,12 @@ namespace Proje_Hastane
             }
             bgl.baglanti().Close();
         }
+
+        private void guna2GradientTileButton2_Click(object sender, EventArgs e)
+        {
+            FrmDashBoard frm = new FrmDashBoard();
+            frm.Show();
+            this.Hide();
+        }
     }
 }

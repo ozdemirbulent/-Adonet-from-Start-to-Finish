@@ -160,6 +160,7 @@
             this.guna2GradientTileButton2.Size = new System.Drawing.Size(153, 47);
             this.guna2GradientTileButton2.TabIndex = 14;
             this.guna2GradientTileButton2.Text = "Geri Dön";
+            this.guna2GradientTileButton2.Click += new System.EventHandler(this.guna2GradientTileButton2_Click);
             // 
             // FrmDoktorGiris
             // 
